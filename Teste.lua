@@ -115,8 +115,3 @@ AimbotBtn.MouseButton1Click:Connect(function()
         end
     end)
 end)
-while true do
-    -- o código fica repetindo aqui para sempre
-    task.wait(1)
-end
-
